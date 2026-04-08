@@ -52,7 +52,3 @@
 | [Digital Footprints](Osint/Digital%20Footprints/Digital%20Footprints.md) | `ciph{difital_footprints_remain}` |
 | [The Quiet Journey](Osint/The%20Quiet%20Journey/The%20Quiet%20Journey.md) | `ciph{MURI_MAHENDRA_SINGH_DHONI}` |
 
-### 🔐 Cryptography
-| Challenge | Flag |
-|-----------|------|
-| [Something Sketchy](Cryptography/Something%20Sketchy/Something%20Sketchy.md) | *In Progress* |
