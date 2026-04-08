@@ -3,9 +3,9 @@
 **Team:** Dystopian Debuggers
 
 **Members:**
-- Sarthak Warale ([@glitchseeker](https://github.com/glitchseeker))
-- Sameep Navale ([@abcd](https://github.com/abcd))
-- Shivam Khopade ([@SshivamK](https://github.com/SshivamK))
+- Sarthak Warale ([@glitchseeker](https://github.com/sarthak-007-code))
+- Sameep Navale ([@abcd])
+- Shivam Khopade ([@SshivamK])
 - Suyog Jadhav
 
 ---
