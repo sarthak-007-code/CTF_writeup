@@ -6,7 +6,7 @@
 - Sarthak Warale ([@glitchseeker](https://github.com/sarthak-007-code))
 - Sameep Navale ([@abcd])
 - Shivam Khopade ([@SshivamK])
-- Suyog Jadhav
+- Suyog Jadhav   ([@suyogjadhav11](https://github.com/suyog-jadhav))
 
 ---
     
